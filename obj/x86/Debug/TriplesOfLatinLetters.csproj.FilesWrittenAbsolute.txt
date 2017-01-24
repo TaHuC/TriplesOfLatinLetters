@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/TriplesOfLatinLetters/TriplesOfLatinLetters/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/TriplesOfLatinLetters/TriplesOfLatinLetters/bin/Debug/TriplesOfLatinLetters.exe.mdb
+/Users/TaHuC/Projects/TriplesOfLatinLetters/TriplesOfLatinLetters/bin/Debug/TriplesOfLatinLetters.exe
+/Users/TaHuC/Projects/TriplesOfLatinLetters/TriplesOfLatinLetters/obj/x86/Debug/TriplesOfLatinLetters.exe
+/Users/TaHuC/Projects/TriplesOfLatinLetters/TriplesOfLatinLetters/obj/x86/Debug/TriplesOfLatinLetters.exe.mdb
